@@ -1,0 +1,19 @@
+{
+    "name": "shishuaishuai\/gaode",
+    "description": "测试包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shilw",
+            "email": "shilw@weipaitang.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shishuaishuai\\Gaode\\": "src"
+        }
+    }
+}
